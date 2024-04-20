@@ -723,17 +723,17 @@ video {
   font-weight: 400;
 }
 
-.uppercase {
-  text-transform: uppercase;
-}
-
-.text-\[\#fff7\] {
-  color: #fff7;
-}
-
 .text-\[\#fff\] {
   --tw-text-opacity: 1;
   color: rgb(255 255 255 / var(--tw-text-opacity));
+}
+
+.text-\[\#ffffff94\] {
+  color: #ffffff94;
+}
+
+.text-\[\#ffffff9a\] {
+  color: #ffffff9a;
 }
 
 .text-\[\#ffffffb0\] {
@@ -748,8 +748,12 @@ video {
   color: #ffffffd8;
 }
 
-.text-\[\#ffffff94\] {
-  color: #ffffff94;
+.text-\[\#ffffffaf\] {
+  color: #ffffffaf;
+}
+
+.text-\[\#ffffffc0\] {
+  color: #ffffffc0;
 }
 
 .backdrop-blur-xl {
