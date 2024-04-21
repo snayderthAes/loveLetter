@@ -127,3 +127,13 @@ function borrarMensajeConAnimacion(index) {
 // Llamar a la función para mostrar el primer mensaje
 mostrarMensajeConAnimacion(0);
 
+// notificacion
+
+document.addEventListener("DOMContentLoaded", function() {
+    var okayButton = document.getElementById("okayButton");
+    var notification = document.getElementById("notification");
+
+    okayButton.addEventListener("click", function() {
+        notification.classList.add("hidden");
+    });
+});
