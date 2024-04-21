@@ -705,6 +705,10 @@ video {
   border-radius: 1.5rem;
 }
 
+.rounded-xl {
+  border-radius: 0.75rem;
+}
+
 .border {
   border-width: 1px;
 }
@@ -727,6 +731,14 @@ video {
 
 .border-\[\#ffffff15\] {
   border-color: #ffffff15;
+}
+
+.border-\[\#fff3\] {
+  border-color: #fff3;
+}
+
+.border-\[\#ffffff21\] {
+  border-color: #ffffff21;
 }
 
 .bg-\[\#000\] {
@@ -769,6 +781,10 @@ video {
 
 .p-\[30px\] {
   padding: 30px;
+}
+
+.p-\[10px\] {
+  padding: 10px;
 }
 
 .px-\[10px\] {
